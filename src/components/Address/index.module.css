@@ -1,0 +1,18 @@
+.adres_lebel {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #353535;
+  margin-bottom: 8px;
+}
+
+.input_adres {
+  width: 554px;
+  height: 86px;
+  border-radius: 8px;
+  border: 1px solid #cacaca;
+  padding: 11px 16px;
+  text-align: start;
+  outline: none;
+}

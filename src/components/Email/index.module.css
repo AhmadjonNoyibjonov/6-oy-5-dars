@@ -1,0 +1,17 @@
+.email_lebel {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #353535;
+  margin-bottom: 8px;
+}
+
+.input_email {
+  width: 269px;
+  height: 46px;
+  border-radius: 8px;
+  padding: 11px 16px;
+  border: 1px solid #cacaca;
+  outline: none;
+}
