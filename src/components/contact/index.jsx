@@ -9,9 +9,9 @@ function index() {
       </label>
       <input
         className={styles["input_contact"]}
-        type="number"
+        type="phone"
         id="contact"
-        placeholder="phone..."
+        placeholder="Phone..."
       />
     </div>
   );

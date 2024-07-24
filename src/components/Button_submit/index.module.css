@@ -1,0 +1,19 @@
+.button_submit {
+  width: 269px;
+  height: 46px;
+  border-radius: 5px;
+  border: 1px solid rgba(53, 53, 53, 0.7);
+  padding: 11px 20px;
+  background-color: #a020f0;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  cursor: pointer;
+  transition: all 1s;
+}
+
+.button_submit:hover {
+  background-color: #600e93;
+  color: orange;
+}
