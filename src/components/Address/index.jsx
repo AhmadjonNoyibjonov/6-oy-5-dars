@@ -11,7 +11,7 @@ function index() {
         className={styles["input_adres"]}
         type="text"
         id="address"
-        placeholder="Address email..."
+        placeholder="Address..."
       />
     </div>
   );
